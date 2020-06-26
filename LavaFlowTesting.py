@@ -1,5 +1,5 @@
 from mcpi.minecraft import Minecraft
-import time
+from time import sleep
 
 mc = Minecraft.create()
 
